@@ -1,5 +1,6 @@
 package aswetty;
 
 public class dirkjan {
-	int dirkjanhaan;
+	int dirkjanhaan; 
 }
+ 
