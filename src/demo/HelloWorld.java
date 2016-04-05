@@ -4,7 +4,7 @@ public class HelloWorld {
 	
 	
 	
-	int dirkjanhaan;
+	int dirkjanhaan = 500;
 
 	public static void main(String[] args) {
 		System.out.println("Hallo Wereld! nog een keer dan maar");
@@ -12,5 +12,7 @@ public class HelloWorld {
 		
 	}
 	
-	void getMoon(){}
+	int getMoon(){
+		return dirkjanhaan;
+	}
 }
